@@ -43,6 +43,10 @@ La planilla además:
 > Está pensado para Argentina: fechas dd/mm/aaaa, pesos, dólar cripto y la forma
 > en que vienen los tickets de los supermercados de acá.
 
+> ¿Sin Railway, en otro hosting, en tu compu o 100% gratis? Todas las opciones,
+> con lo que implica cada una, están en
+> [`docs/formas-de-desplegarlo.md`](docs/formas-de-desplegarlo.md).
+
 ---
 
 ## Cuánto cuesta
