@@ -318,3 +318,7 @@ tu compu no va a recibir nada en Railway.
   `request_id` repetido; así un reintento nunca duplica una fila.
 - El bot guarda el historial de la conversación, incluidas las herramientas que usó,
   para saber qué gastos ya cargó.
+
+## Licencia
+
+[MIT](LICENSE).
